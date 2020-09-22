@@ -6,7 +6,7 @@
 --- 
 **Code**
  - [Main Page XAML Code](https://github.com/iingles/iiPayroll/blob/master/IIPayroll/MainPage.xaml)
- - [Main Page C# Code](hhttps://github.com/iingles/iiPayroll/blob/master/IIPayroll/MainPage.xaml.cs)
+ - [Main Page C# Code](https://github.com/iingles/iiPayroll/blob/master/IIPayroll/MainPage.xaml.cs)
 
  - [Payroll Page XAML Code](https://github.com/iingles/iiPayroll/blob/master/IIPayroll/PayrollPage.xaml)
  - [Payroll Page C# Code](https://github.com/iingles/iiPayroll/blob/master/IIPayroll/PayrollPage.xaml.cs)
