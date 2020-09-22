@@ -1,7 +1,7 @@
 # INFO 1200 
 ### Fall 2020
 
-## Project 2_B - Fitness App
+## Participation 6 - Payroll Calculator
 
 --- 
 **Code**
